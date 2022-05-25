@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.accenture.fioriui.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+  
+   
+        
+        <content/>
+    
+</mvc:View>
